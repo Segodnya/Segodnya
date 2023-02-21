@@ -18,4 +18,4 @@
 
 Много увлечений и они совсем разные? Но я отнюдь не рассеян. Умение планировать и почти полный резист к прокрастинации - мои сильные стороны :).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segodnya&layout=compact&hide=Jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segodnya&layout=compact&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
