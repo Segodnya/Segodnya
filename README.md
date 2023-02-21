@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segodnya&layout=compact&hide=Jupyter+Notebook&hide_progress=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Segodnya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=segodnya&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Codewars Badge](https://www.codewars.com/users/Segodnya/badges/large)](https://www.codewars.com/users/Segodnya)
 
 Веб-разработка - очень медитативная штука. Ты сначала рассуждаешь, обдумываешь решение, а когда оно готово - кофе, музыка, стук по клавишам... Реакция на решения, которые ты принимаешь при написании кода, моментальная - этим мне и приглянулась работа с пользовательскими интерфейсами.
