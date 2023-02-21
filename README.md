@@ -20,5 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segodnya&layout=compact&hide=Jupyter+Notebook&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Segodnya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=segodnya)](https://github.com/anuraghazra/github-readme-stats)
+[![Segodnya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Segodnya)](https://github.com/anuraghazra/github-readme-stats)
 
