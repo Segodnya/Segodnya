@@ -14,7 +14,7 @@
 
 Полученные знания я стараюсь сразу применить на практике и внедрить в повседневную жизнь или рабочие процессы. Так появился первый пет-проджект: разработал и совместно с IT-подразделением своей организации внедрил для внутреннего использования веб-сервис для планирования графика отпусков, который позволяет сэкономить значительное время на решение этой задачи (стек - HTML, CSS, БЭМ, JS Date Format, localStorage, isDayOFF API).
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=segodnya&repo=vacation-calendar&theme=transparent)](https://github.com/segodnya/vacation-calendar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=segodnya&repo=vacation-calendar&theme=transparent&hide_border=true)](https://github.com/segodnya/vacation-calendar)
 
 Кроме основной работы и обучения разработке, я еще играю на гитаре (неплохо) и клавишах (совсем чуть-чуть), увлекаюсь кофе (зерна, обжарка, ручные кофемолки, альтернативные способы заваривания), люблю прогуляться под новый выпуск Радио-Т, Frontend Weekend'a или Подлодки о микросервисной архитектуре.
 
