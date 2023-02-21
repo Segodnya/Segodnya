@@ -23,3 +23,4 @@
 
 [![Segodnya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Segodnya)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=segodnya&theme=juicyfresh&no-bg=true" />
