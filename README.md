@@ -1,7 +1,6 @@
 ### Привет! 👋
 
 Меня зовут Кирилл Куренцов. Занимаюсь веб-разработкой с 2022 года. До этого работал аналитиком/менеджером на государственной службе.
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%segodnya&longCache=true"/>
 
 - 🔭 Студент курса "Веб-разработчик" в Я.Практикуме.
 - 🌱 В настоящий момент изучаю React, Node.js, TypeScript
