@@ -14,13 +14,13 @@
 
 Полученные знания я стараюсь сразу применить на практике и внедрить в повседневную жизнь или рабочие процессы. Так появился первый пет-проджект: разработал и совместно с IT-подразделением своей организации внедрил для внутреннего использования веб-сервис для планирования графика отпусков, который позволяет сэкономить значительное время на решение этой задачи (стек - HTML, CSS, БЭМ, JS Date Format, localStorage, isDayOFF API).
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=segodnya&repo=vacation-calendar)](https://github.com/segodnya/vacation-calendar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=segodnya&repo=vacation-calendar&theme=transparenthide_border)](https://github.com/segodnya/vacation-calendar)
 
 Кроме основной работы и обучения разработке, я еще играю на гитаре (неплохо) и клавишах (совсем чуть-чуть), увлекаюсь кофе (зерна, обжарка, ручные кофемолки, альтернативные способы заваривания), люблю прогуляться под новый выпуск Радио-Т, Frontend Weekend'a или Подлодки о микросервисной архитектуре.
 
 Много увлечений и они совсем разные? Но я отнюдь не рассеян. Умение планировать и почти полный резист к прокрастинации - мои сильные стороны :).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segodnya&layout=compact&hide=Jupyter+Notebook&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segodnya&layout=compact&hide=Jupyter+Notebook&hide_progress=true&theme=transparenthide_border)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codewars Badge](https://www.codewars.com/users/Segodnya/badges/large)](https://www.codewars.com/users/Segodnya)
 
