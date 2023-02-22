@@ -13,8 +13,8 @@
 ## Contacts
 
 * Email: kurentsov.k@gmail.com
-* Linkedin: linkedin.com/in/kurentsov
-* Telegram: t.me/Segodnya
+* Linkedin: https://linkedin.com/in/kurentsov
+* Telegram: https://t.me/Segodnya
 
 ## Stats
 
